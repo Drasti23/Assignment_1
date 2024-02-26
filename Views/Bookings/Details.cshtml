@@ -1,0 +1,24 @@
+﻿@model Booking
+
+@{
+    ViewData["Title"] = "Booking Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Booking Details</h1>
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">Booking ID: @Model.Id</h5>
+        <p class="card-text">
+            Service Id : @Model.ServiceId;<br /><br />
+            Service Type : @Model.ServiceType;<br /><br />
+            Booking Date : @Model.BookingDate;<br /><br />
+            Total Price : @Model.TotalPrice;
+            
+        </p>
+        <a asp-action="Edit" asp-controller="Bookings" asp-route-id="@Model.Id" class="btn btn-primary">Edit</a>
+        <a asp-action="Delete" asp-controller="Bookings" asp-route-id="@Model.Id" class="btn btn-danger">Delete</a>
+        <a asp-action="Index" asp-controller="Bookings" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>

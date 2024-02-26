@@ -1,0 +1,144 @@
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/bin/Debug/net7.0/appsettings.Development.json
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/bin/Debug/net7.0/appsettings.json
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Assignment_1.staticwebassets.runtime.json
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Assignment_1
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Assignment_1.deps.json
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Assignment_1.runtimeconfig.json
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Assignment_1.dll
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Assignment_1.pdb
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.csproj.AssemblyReference.cache
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.AssemblyInfoInputs.cache
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.AssemblyInfo.cs
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.csproj.CoreCompileInputs.cache
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.MvcApplicationPartsAssemblyInfo.cache
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.RazorAssemblyInfo.cache
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.RazorAssemblyInfo.cs
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/obj/Debug/net7.0/staticwebassets/msbuild.Assignment_1.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/obj/Debug/net7.0/staticwebassets/msbuild.build.Assignment_1.props
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Assignment_1.props
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Assignment_1.props
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/obj/Debug/net7.0/staticwebassets.build.json
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/obj/Debug/net7.0/staticwebassets.development.json
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/obj/Debug/net7.0/scopedcss/bundle/Assignment_1.styles.css
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/obj/Debug/net7.0/scopedcss/projectbundle/Assignment_1.bundle.scp.css
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.dll
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/obj/Debug/net7.0/refint/Assignment_1.dll
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.pdb
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.genruntimeconfig.cache
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/obj/Debug/net7.0/ref/Assignment_1.dll
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Humanizer.dll
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/bin/Debug/net7.0/MySqlConnector.dll
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/bin/Debug/net7.0/System.CodeDom.dll
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.csproj.CopyComplete
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/ommakwana/Sem_4/SERGIO-COMP2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/bin/Debug/net7.0/appsettings.Development.json
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/bin/Debug/net7.0/appsettings.json
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Assignment_1.staticwebassets.runtime.json
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Assignment_1
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Assignment_1.deps.json
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Assignment_1.runtimeconfig.json
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Assignment_1.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Assignment_1.pdb
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Humanizer.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/bin/Debug/net7.0/MySqlConnector.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/bin/Debug/net7.0/System.CodeDom.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.csproj.AssemblyReference.cache
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.AssemblyInfoInputs.cache
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.AssemblyInfo.cs
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.csproj.CoreCompileInputs.cache
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.MvcApplicationPartsAssemblyInfo.cache
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.RazorAssemblyInfo.cache
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.RazorAssemblyInfo.cs
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/obj/Debug/net7.0/staticwebassets/msbuild.Assignment_1.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/obj/Debug/net7.0/staticwebassets/msbuild.build.Assignment_1.props
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Assignment_1.props
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Assignment_1.props
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/obj/Debug/net7.0/staticwebassets.build.json
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/obj/Debug/net7.0/staticwebassets.development.json
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/obj/Debug/net7.0/scopedcss/bundle/Assignment_1.styles.css
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/obj/Debug/net7.0/scopedcss/projectbundle/Assignment_1.bundle.scp.css
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.csproj.CopyComplete
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/obj/Debug/net7.0/refint/Assignment_1.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.pdb
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.genruntimeconfig.cache
+/Users/drastiparikh/Sem4/COMP 2139/Assignment_1/Assignment_1/obj/Debug/net7.0/ref/Assignment_1.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/bin/Debug/net7.0/appsettings.Development.json
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/bin/Debug/net7.0/appsettings.json
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/bin/Debug/net7.0/Assignment_1.staticwebassets.runtime.json
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/bin/Debug/net7.0/Assignment_1
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/bin/Debug/net7.0/Assignment_1.deps.json
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/bin/Debug/net7.0/Assignment_1.runtimeconfig.json
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/bin/Debug/net7.0/Assignment_1.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/bin/Debug/net7.0/Assignment_1.pdb
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/bin/Debug/net7.0/Humanizer.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/bin/Debug/net7.0/MySqlConnector.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/bin/Debug/net7.0/System.CodeDom.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.csproj.AssemblyReference.cache
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.AssemblyInfoInputs.cache
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.AssemblyInfo.cs
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.csproj.CoreCompileInputs.cache
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.MvcApplicationPartsAssemblyInfo.cache
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.RazorAssemblyInfo.cache
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.RazorAssemblyInfo.cs
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/obj/Debug/net7.0/staticwebassets/msbuild.Assignment_1.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/obj/Debug/net7.0/staticwebassets/msbuild.build.Assignment_1.props
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Assignment_1.props
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Assignment_1.props
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/obj/Debug/net7.0/staticwebassets.build.json
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/obj/Debug/net7.0/staticwebassets.development.json
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/obj/Debug/net7.0/scopedcss/bundle/Assignment_1.styles.css
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/obj/Debug/net7.0/scopedcss/projectbundle/Assignment_1.bundle.scp.css
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.csproj.CopyComplete
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/obj/Debug/net7.0/refint/Assignment_1.dll
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.pdb
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/obj/Debug/net7.0/Assignment_1.genruntimeconfig.cache
+/Users/drastiparikh/Sem4/COMP 2139/Assignments/Assignment_1/Assignment_1/Assignment_1/obj/Debug/net7.0/ref/Assignment_1.dll

@@ -1,0 +1,45 @@
+﻿@model Flight // Assuming Flight is your model class
+
+@{
+    ViewData["Title"] = "Book Flight";
+    Layout = "_Layout";
+}
+
+<h1>Book Flight</h1>
+
+@if (TempData.ContainsKey("SuccessMessage"))
+{
+    <div class="alert alert-success" role="alert">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+<h3>Flight Details:</h3>
+<div>
+    <dl class="row">
+        <dt class="col-sm-3">Flight Number:</dt>
+        <dd class="col-sm-9">@Model.FlightNumber</dd>
+        
+
+        <dt class="col-sm-3">Origin:</dt>
+        <dd class="col-sm-9">@Model.Origin</dd>
+
+        <dt class="col-sm-3">Destination:</dt>
+        <dd class="col-sm-9">@Model.Destination</dd>
+
+        <dt class="col-sm-3">Departure Time:</dt>
+        <dd class="col-sm-9">@Model.DepartureTime.ToString("yyyy-MM-dd HH:mm")</dd>
+
+        <dt class="col-sm-3">Arrival Time:</dt>
+        <dd class="col-sm-9">@Model.ArrivalTime.ToString("yyyy-MM-dd HH:mm")</dd>
+
+        <dt class="col-sm-3">Price:</dt>
+        <dd class="col-sm-9">@Model.Price</dd>
+    </dl>
+</div>
+
+<form id="bookForm" asp-controller="Flight" asp-action="Book" method="post">
+    <input type="hidden" name="id" value="@Model.Id" />
+
+    <button type="button" id="confirmBooking" class="btn btn-success">Book</button>
+</form>

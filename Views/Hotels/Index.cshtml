@@ -1,0 +1,90 @@
+﻿@model List<Assignment_1.Models.Hotel>
+
+@{
+    ViewData["Title"] = "Hotels";
+    Layout = "_Layout";
+    bool searchPerformed = ViewData["SeachPerformed"] as bool? ?? false;
+    string searchString = ViewData["SearchString"] as string;
+}
+
+<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+    <ul class="navbar-nav">
+        <li>
+            <a class="btn btn-success" asp-area="" asp-action="Create" asp-controller="Hotels">Add Hotel</a>
+        </li>
+    </ul>
+
+    <ul class="navbar-nav flex-grow-1 justify-content-end">
+        <li>
+            <form asp-action="Search">
+                <div class="input-group md-form-sm form-2 pl-0">
+                    <input name="searchString" class="form-control my-0 py-1 red-border" type="text" placeholder="Hotel Name/Location" >
+                    <div class="input-group-append">
+                        <span class="input-group-text list-group-numbered lighten-3" id="basic-text1">
+                            <i class="fas fa-search text grey" aria-hidden="true"></i>
+                        </span>
+                    </div>
+                </div>
+                <button type="submit" class="btn btn-primary">Search</button>
+            </form>
+        </li>
+        <li>
+            <a class="btn btn-secondary" asp-area="" asp-action="Index" asp-controller="Hotels">Back To List</a>
+        </li>
+    </ul>
+</nav>
+
+<h1>Available Hotels</h1>
+
+@if (Model.Count == 0)
+{
+    <p>No hotels available.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Location</th>
+                <th>Rating</th>
+                <th>Price Per Night</th>
+                <th>Available</th>
+                <th></th> <!-- New column for Book button -->
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var hotel in Model)
+            {
+                <tr>
+                    <td>@hotel.Name</td>
+                    <td>@hotel.Location</td>
+                    <td>@hotel.Rating</td>
+                    <td>@hotel.PricePerNight</td>
+                    <td>@(hotel.IsAvailable ? "Yes" : "No")</td>
+                    <td>
+                        <a class="btn btn-primary" href="@Url.Action("Details", "Hotels", new { id = hotel.Id })">Details</a>
+                    </td>
+                    <td>
+                        <form id="bookForm-@hotel.Id" asp-controller="Hotels" asp-action="Book" method="post">
+                            <input type="hidden" name="id" value="@hotel.Id" />
+                            <button type="button" class="btn btn-success" onclick="confirmBooking(@hotel.Id)">Book</button>
+                        </form>
+                    </td>
+                    <td>
+                        <form asp-action="Delete" method="post" onsubmit="return confirm('Are you sure you want to delete this item?');">
+                            <input type="hidden" name="id" value="@hotel.Id" />
+                            <button type="submit" class="btn btn-danger" asp-controller="Hotels" asp-action="Delete">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<script>function confirmBooking(hotelId) {
+        if (confirm('Are you sure you want to book this hotel?')) {
+            document.getElementById('bookForm-' + hotelId).submit();
+        }
+    }</script>

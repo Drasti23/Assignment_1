@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Confirm Booking";
+    Layout = "~/Views/Shared/_Layout.cshtml"; // Update the layout path if needed
+}
+
+<h1>Confirm Booking</h1>
+
+@if (ViewData.ContainsKey("BookingId") && ViewData["Hotel"] != null)
+{
+    var hotel = ViewData["Hotel"] as Assignment_1.Models.Hotel;
+    <div>
+        <p>Your booking with ID: <strong>@ViewData["BookingId"]</strong> has been confirmed.</p>
+        <h3>Hotel Details:</h3>
+        <dl class="row">
+            <dt class="col-sm-3">Hotel Name:</dt>
+            <dd class="col-sm-9">@hotel.Name</dd>
+
+            <dt class="col-sm-3">Location :</dt>
+            <dd class="col-sm-9">@hotel.Location</dd>
+
+            <dt class="col-sm-3">Hotel Rating :</dt>
+            <dd class="col-sm-9">@hotel.Rating</dd>
+
+            <dt class="col-sm-3">Price Per Night:</dt>
+            <dd class="col-sm-9">@hotel.PricePerNight</dd>
+
+            <!-- Add other hotel details here -->
+        </dl>
+    </div>
+}
+else
+{
+    <div>
+        <p>Booking confirmation details not found.</p>
+    </div>
+}
+
+<div>
+    <a class="btn btn-primary" asp-controller="Hotels" asp-action="Index">Back to Hotels</a>
+</div>

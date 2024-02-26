@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Home";
+    Layout = "_Layout";
+}
+<h1>Welcome to GBC Travel</h1>
+
+<p>
+    This is a sample home page for the GBC Travel website. You can start exploring our travel services by navigating through the menu.
+</p>
+
+<div class="row">
+    <div class="col-md-4" style="border:hidden;background-color:bisque">
+        <h2>Flights</h2>
+        <p>Find and book your flights with ease. Explore our wide range of flight options.</p>
+        <p><a class="btn btn-primary" asp-controller="Flight" asp-action="Index">View Flights &raquo;</a></p>
+    </div>
+    <div class="col-md-4" style="border:hidden;background-color:bisque">
+        <h2>Hotels</h2>
+        <p>Discover comfortable accommodations for your stay. Browse through our selection of hotels.</p>
+        <p><a class="btn btn-primary" asp-controller="Hotels" asp-action="Index">View Hotels &raquo;</a></p>
+    </div>
+    <div class="col-md-4" style="border:hidden; background-color:bisque">
+        <h2>Car Rentals</h2>
+        <p>Rent a car for your travel needs. Choose from a variety of car rental options.</p>
+        <p><a class="btn btn-primary" asp-controller="CarRentals" asp-action="Index">View Car Rentals &raquo;</a></p>
+    </div>
+</div>
+<hr />
+<h2>About GBC Travels</h2>
+<p>
+    At GBC Travels, we believe in turning dreams into unforgettable memories. With a passion for exploration and a commitment to excellence, we strive to provide our customers with unparalleled travel experiences that leave a lasting impression.
+
+</p>
+<hr />
+<h2>Our Services</h2>
+<p>Flight, Hotel, and Car Rentals</p>
+<h3>Discover seamless travel experiences with GBC Travels. We offer:</h3>
+<p><b>Flight Bookings:</b> Explore a world of destinations with competitive prices and flexible options.</p>
+<p><b>Hotel Bookings:</b> Find your perfect retreat from our curated selection of accommodations.</p>
+<p><b>Car Rentals:</b> Hit the road with ease and explore at your own pace.</p>  
